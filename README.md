@@ -23,7 +23,7 @@ Add EcowittLocal to your project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/EcowittLocal.git", from: "1.0.0")
+    .package(url: "https://github.com/MikeManzo/EcowittLocal.git", from: "1.0.0")
 ]
 ```
 
@@ -131,4 +131,4 @@ This package works with Ecowitt gateway devices that expose a local HTTP API, in
 
 ## License
 
-[Add your license here]
+This project is licensed under the [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html). See [LICENSE](LICENSE) for details.
