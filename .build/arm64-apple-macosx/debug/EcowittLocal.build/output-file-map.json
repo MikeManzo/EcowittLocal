@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/primary.swiftdeps"
+  },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittClient.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittClient.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittClient.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittClient.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittClient.dia"
+  },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittConnectionStatus.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus.dia"
+  },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittJSONParser.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser.dia"
+  },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittLiveData.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.dia"
+  },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittUnitConverter.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.dia"
+  }
+}
