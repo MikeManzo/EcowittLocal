@@ -40,6 +40,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittScanner.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittUnitConverter.swift"
         },
         {
@@ -59,6 +63,7 @@
         "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittConnectionStatus.swift.o",
         "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittJSONParser.swift.o",
         "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.swift.o",
+        "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.swift.o",
         "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.swift.o"
       ],
       "otherArguments" : [
@@ -130,6 +135,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.swift.o"
         },
         {
@@ -143,6 +152,7 @@
         "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittConnectionStatus.swift",
         "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittJSONParser.swift",
         "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittLiveData.swift",
+        "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittScanner.swift",
         "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittUnitConverter.swift"
       ],
       "tempsPath" : "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build",
@@ -164,6 +174,7 @@
       "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittConnectionStatus.swift",
       "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittJSONParser.swift",
       "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittLiveData.swift",
+      "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittScanner.swift",
       "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittUnitConverter.swift",
       "-I",
       "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/Modules",
@@ -257,6 +268,10 @@
         {
           "kind" : "file",
           "name" : "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittLiveData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittScanner.swift"
         },
         {
           "kind" : "file",

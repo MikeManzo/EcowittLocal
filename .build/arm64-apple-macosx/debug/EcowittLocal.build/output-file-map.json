@@ -30,6 +30,13 @@
     "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.swiftdeps",
     "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittLiveData.dia"
   },
+  "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittScanner.swift": {
+    "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.d",
+    "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.swift.o",
+    "swiftmodule": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.swiftdeps",
+    "diagnostics": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittScanner.dia"
+  },
   "/Users/mike/Documents/Dev/EcowittLocal/Sources/EcowittLocal/EcowittUnitConverter.swift": {
     "dependencies": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.d",
     "object": "/Users/mike/Documents/Dev/EcowittLocal/.build/arm64-apple-macosx/debug/EcowittLocal.build/EcowittUnitConverter.swift.o",

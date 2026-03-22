@@ -166,7 +166,12 @@ public class EcowittScanner: ObservableObject {
                     if getnameinfo(addr.pointee.ifa_addr, socklen_t(addr.pointee.ifa_addr.pointee.sa_len),
                                    &hostname, socklen_t(hostname.count),
                                    nil, 0, NI_NUMERICHOST) == 0 {
-                        let ip = String(cString: hostname)
+                        let ip: String
+                        if let nullIndex = hostname.firstIndex(of: 0) {
+                            ip = String(decoding: hostname[..<nullIndex].map { UInt8(bitPattern: $0) }, as: UTF8.self)
+                        } else {
+                            ip = String(decoding: hostname.map { UInt8(bitPattern: $0) }, as: UTF8.self)
+                        }
                         // Extract the /24 subnet prefix
                         let components = ip.split(separator: ".")
                         if components.count == 4 {
